@@ -17,7 +17,7 @@ function InfoCard() {
 
             <hr />
             <Title text="CONTACT" />
-            <SocialInput icon = {<BsFillEnvelopeFill />} text = 'william.vic0019@gmail.com'/>
+            <SocialInput icon = {<BsFillEnvelopeFill />} text = 'soliddev66@gmail.com'/>
             <SocialInput icon = {<BsLinkedin />} text = '' placeholder='LinkedIn'/>
             <SocialInput icon = {<BsTelephoneFill />} text = '' placeholder='Phone' phone = {1}/>
             <hr />
