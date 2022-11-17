@@ -13,7 +13,7 @@ function InfoCard() {
         <div className='info-card'>
             <Avatar />
             <CustomInput text = 'Jack' size = 'big' align = 'center'/>
-            <CustomInput text = 'Blanda' size = 'big' align = 'center'/>
+            <CustomInput text = 'Kostic' size = 'big' align = 'center'/>
 
             <hr />
             <Title text="CONTACT" />
